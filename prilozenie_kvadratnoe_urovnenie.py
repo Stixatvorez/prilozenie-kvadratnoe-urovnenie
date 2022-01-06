@@ -22,7 +22,7 @@ def vajutamine(event):
 aken=Tk()
 aken.title("Квадратные уравнения")
 
-aken.geometry('600x175')
+aken.geometry('400x600')
 
 a = StringVar()
 a.set('')
